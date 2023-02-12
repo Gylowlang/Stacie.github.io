@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    Anti Rejection for ur crush (ew yuck)
+    Anti Rejection for ur crush
     <br />
     <a href="https://github.com/Gylowlang/Stacie.tasyang">View Demo</a>
     ·
